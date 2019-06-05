@@ -18,3 +18,7 @@ The purpose of the plugin is it provides the flexibility for the users to get in
 === Features ===
 We can hide the cover photo of the facebook post page.
 We can show or hide the facepile.
+
+
+=== Installation ===
+We can upload the this plugin zip folder in the plugins of the wordpress.
