@@ -21,4 +21,6 @@ We can show or hide the facepile.
 
 
 === Installation ===
+Download the facebook post plugin zip folder.
 We can upload the this plugin zip folder in the plugins of the wordpress.
+There we can activate the plugin and the widget.
